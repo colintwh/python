@@ -1,7 +1,5 @@
 # Python Basics
 
-## Introduction
-
    This site seeks to introduce the basics of the Python programming language. The goal of this site serves as a reference and tutorial site for those who want to learn the basics of programming quickly. 
 
    You'll need to have a recent version of Python installed on your computer. You'll also need to install a text editor or Integrated Development Environment (IDE) to work with your Python programs. I firmly believe you can only learn how to program by actually doing it yourself, thus you are strongly encouraged to try what you have learnt by writing an actual program. 
