@@ -34,13 +34,13 @@ The [Python Package Index (PyPI)](https://pypi.org/) is a large repository of Py
 
 ## Contents:
 
-The basic concepts you'll need to write Python programs are organised in the following chapters, in the form of Jupyter notebooks on GitHub:
+The basic concepts you'll need to write Python programs are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
 
    + [Variables, Data Types and Scope](https://github.com/colintanwh/python-basics/blob/master/variables.ipynb)
    + [Collection](https://github.com/colintanwh/python-basics/blob/master/collection.ipynb)
    + [Loop control statements](https://github.com/colintanwh/python-basics/blob/master/loops.ipynb)
    + [Selection control statements](https://github.com/colintanwh/python-basics/blob/master/flowcontrol.ipynb)
-   + Functions
+   + [Functions](https://github.com/colintanwh/python-basics/blob/master/functions.ipynb)
    + Classes
    + Files and Exceptions
    + Testing your code
