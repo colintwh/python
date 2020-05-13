@@ -45,5 +45,3 @@ The basic concepts you'll need to write Python programs are organised in the fol
    + Files and Exceptions
    + Testing your code
    + Useful modules in standard library
-
-*Contents adapted from https://python-textbok.readthedocs.io and the book "Python Crash Course by Eric Matthes"* 
