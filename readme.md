@@ -41,7 +41,7 @@ The basic concepts you'll need to write Python programs are organised in the fol
    + [Loop control statements](https://github.com/colintanwh/python-basics/blob/master/loops.ipynb)
    + [Selection control statements](https://github.com/colintanwh/python-basics/blob/master/flowcontrol.ipynb)
    + [Functions](https://github.com/colintanwh/python-basics/blob/master/functions.ipynb)
-   + Classes
+   + [Classes](https://github.com/colintanwh/python-basics/blob/master/classes.ipynb)
    + Files and Exceptions
    + Testing your code
    + Useful modules in standard library
