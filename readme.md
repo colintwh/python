@@ -43,5 +43,5 @@ The basic concepts you'll need to write Python programs are organised in the fol
    + [Functions](https://github.com/colintanwh/python-basics/blob/master/functions.ipynb)
    + [Classes](https://github.com/colintanwh/python-basics/blob/master/classes.ipynb)
    + [Files and Exceptions](https://github.com/colintanwh/python-basics/blob/master/files_exceptions.ipynb)
-   + Testing your code
+   + [Testing your code](https://github.com/colintanwh/python-basics/blob/master/testcode.ipynb)
    + Useful modules in standard library
