@@ -36,12 +36,12 @@ The [Python Package Index (PyPI)](https://pypi.org/) is a large repository of Py
 
 The basic concepts you'll need to write Python programs are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
 
-   + [Variables, Data Types and Scope](https://github.com/colintanwh/python-basics/blob/master/variables.ipynb)
-   + [Collection](https://github.com/colintanwh/python-basics/blob/master/collection.ipynb)
-   + [Loop control statements](https://github.com/colintanwh/python-basics/blob/master/loops.ipynb)
-   + [Selection control statements](https://github.com/colintanwh/python-basics/blob/master/flowcontrol.ipynb)
-   + [Functions](https://github.com/colintanwh/python-basics/blob/master/functions.ipynb)
-   + [Classes](https://github.com/colintanwh/python-basics/blob/master/classes.ipynb)
-   + [Files and Exceptions](https://github.com/colintanwh/python-basics/blob/master/files_exceptions.ipynb)
-   + [Testing your code](https://github.com/colintanwh/python-basics/blob/master/testcode.ipynb)
-   + [Useful modules in standard library](https://github.com/colintanwh/python-basics/blob/master/usefulmodules.ipynb)
+   + [Variables, Data Types and Scope](https://github.com/colintwh/python-basics/blob/master/variables.ipynb)
+   + [Collection](https://github.com/colintwh/python-basics/blob/master/collection.ipynb)
+   + [Loop control statements](https://github.com/colintwh/python-basics/blob/master/loops.ipynb)
+   + [Selection control statements](https://github.com/colintwh/python-basics/blob/master/flowcontrol.ipynb)
+   + [Functions](https://github.com/colintwh/python-basics/blob/master/functions.ipynb)
+   + [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
+   + [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
+   + [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
+   + [Useful modules in standard library](https://github.com/colintwh/python-basics/blob/master/usefulmodules.ipynb)
