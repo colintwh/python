@@ -1,16 +1,18 @@
-# Python Basics
+# Python
 
-   This site seeks to introduce the basics of the Python programming language. The goal of this site serves as a reference source for those (myself included) who needs to recall some of the basic concepts in Python. It also serves as a learning site for those who want to pick up basics of programming quickly.
+### Aim
 
-   You'll need to have a recent version of Python installed on your computer to run the codes. You'll also need to install a text editor or Integrated Development Environment (IDE) to work with your Python programs.
+   Learn/recall the basics of Python - the preferred language for Data Science.
+
+   You'll need an IDE such as Spyder or Jupyter Notebook to work with your Python programs.
 
 ### Python versions
 
-Python underwent a major version change from 2 to 3. We will be using Python 3. Python 2 is still widely used, and although Python 3 is not fully backwards compatible the two versions are very similar. Everything in the notebooks on this site should run on Python 3.6 or later. 
+Python underwent a major version change from 2 to 3. Though Python 2 is still widely used, Python 3 is not fully backwards compatible the two versions are very similar. The code in the notebooks should run on Python 3.6 or later. 
 
-### Python on Different Operating Systems
+### Python on different Operating Systems
 
-Python is a cross-platform programming language, which means it runs on all major operating systems - Windows, macOS and Linux. To check whether a recent version of Python is installed on your system, open a command (Windows) or terminal (macOS/Linux) window and enter `python` or `python3` in lowercase. When Python is installed, this command will start the Python interpreter. You should see output indicating which version of Python is installed and a`>>>` prompt where you can start entering Python commands:
+Python is a cross-platform programming language, i.e. it runs on all major operating systems - Windows, macOS and Linux. To check your version Python installed on your system, open a command (Windows) or terminal (macOS/Linux) window and enter `python` or `python3` in lowercase. This command will start the Python interpreter if Python is installed.  You should see output indicating Python version and a`>>>` prompt where you can start entering Python commands:
 
 ```
     Python 3.7.6 (default, Jan 8, 2020, 19:59:22)
@@ -21,7 +23,7 @@ Python is a cross-platform programming language, which means it runs on all majo
 
 ### Running programs from files
 
-The interpreter is useful for testing code snippets and exploring functions and modules, but to save a program permanently we need to write it into a file. Python files are commonly given the suffix .py. Once you have written a program and saved it, you can run it by using the python command with the file name as a parameter:
+Python files are commonly given the suffix .py. Once you have written a program and saved it, you can run it by using the python command with the file name as a parameter:
 
     python hello_world.py
 
@@ -32,16 +34,17 @@ The [Python Package Index (PyPI)](https://pypi.org/) is a large repository of Py
     pip install sqlobject
 
 
-## Contents:
+## Topics:
 
-The basic concepts you'll need to write Python programs are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
+The basic concepts you'll need to write programs in Python are organised in the following chapters
 
-   + [Variables, Data Types and Scope](https://github.com/colintwh/python-basics/blob/master/variables.ipynb)
-   + [Collection](https://github.com/colintwh/python-basics/blob/master/collection.ipynb)
-   + [Loop control statements](https://github.com/colintwh/python-basics/blob/master/loops.ipynb)
-   + [Selection control statements](https://github.com/colintwh/python-basics/blob/master/flowcontrol.ipynb)
-   + [Functions](https://github.com/colintwh/python-basics/blob/master/functions.ipynb)
-   + [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
-   + [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
-   + [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
-   + [Useful modules in standard library](https://github.com/colintwh/python-basics/blob/master/usefulmodules.ipynb)
+   1. [Introduction to Python](https://github.com/colintwh/python-basics/blob/master/introtopython.ipynb)
+   2. [Functions](https://github.com/colintwh/python-basics/blob/master/functions.ipynb)
+   3. [Booleans and Conditionals](https://github.com/colintwh/python-basics/blob/master/conditionals.ipynb)
+   4. [Loops](https://github.com/colintwh/python-basics/blob/master/loops.ipynb)
+   5. [Strings and Dictionaries](https://github.com/colintwh/python-basics/blob/master/strings_dicts.ipynb)
+   6. [External libraries](https://github.com/colintwh/python-basics/blob/master/external_libs.ipynb)
+   7. [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
+   8. [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
+   9. [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
+   10. [Useful modules in standard library](https://github.com/colintwh/python-basics/blob/master/usefulmodules.ipynb)
