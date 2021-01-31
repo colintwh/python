@@ -57,6 +57,4 @@ The basic concepts you'll need to do analytics operations in Python are organise
 ## Reference source
 
 Lessons in the notebook were adapted from various sources including [Kaggle](https://www.kaggle.com/), an [online site on Python](https://python-textbok.readthedocs.io/en/1.0/index.html) and the book: *Matthes, E. (2019). Python Crash Course (2nd ed.). No Starch Press.*
-
-
    
