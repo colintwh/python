@@ -48,6 +48,7 @@ The basic concepts you'll need to do analytics operations in Python are organise
    8. [More about functions](https://github.com/colintwh/python-basics/blob/master/adv_functions.ipynb)
    
    Slightly more advanced concepts (These are more specific to using Python to write general programs)
+   
    9. [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
    10. [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
    11. [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
