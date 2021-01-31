@@ -36,7 +36,7 @@ The [Python Package Index (PyPI)](https://pypi.org/) is a large repository of Py
 
 ## Topics:
 
-The basic concepts you'll need to write programs in Python are organised in the following chapters
+The basic concepts you'll need to do analytics operations in Python are organised in the following chapters
 
    1. [Introduction to Python](https://github.com/colintwh/python-basics/blob/master/introtopython.ipynb)
    2. [Functions](https://github.com/colintwh/python-basics/blob/master/functions.ipynb)
@@ -45,7 +45,10 @@ The basic concepts you'll need to write programs in Python are organised in the 
    5. [Loops](https://github.com/colintwh/python-basics/blob/master/loops.ipynb)
    6. [Strings and Dictionaries](https://github.com/colintwh/python-basics/blob/master/strings_dicts.ipynb)
    7. [External libraries](https://github.com/colintwh/python-basics/blob/master/external_libs.ipynb)
-   8. [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
-   9. [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
-   10. [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
+   8. [More about functions](https://github.com/colintwh/python-basics/blob/master/adv_functions.ipynb)
+   
+   Slightly more advanced concepts (These are more specific to using Python to write general programs)
+   9. [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
+   10. [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
+   11. [Testing your code](https://github.com/colintwh/python-basics/blob/master/testcode.ipynb)
    
