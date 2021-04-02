@@ -2,9 +2,9 @@
 
 ## Aim
 
-   Learn/recall the basics of Python - the preferred programming language for Data Science.
+Learn/recall the basics of Python - the preferred programming language for Data Science.
 
-   You'll need an IDE such as Spyder or Jupyter Notebook to work with your Python programs.
+You'll need an IDE such as Spyder or Jupyter Notebook to work with your Python programs.
 
 ## Python versions
 
@@ -36,7 +36,7 @@ The [Python Package Index (PyPI)](https://pypi.org/) is a large repository of Py
 
 ## Topics:
 
-The basic concepts you'll need to do analytics operations in Python are organised in the following chapters
+The basic concepts you'll need to do analytic operations in Python are organised in the following chapters
 
    1. [Introduction to Python](https://github.com/colintwh/python-basics/blob/master/introtopython.ipynb)
    2. [Functions](https://github.com/colintwh/python-basics/blob/master/functions.ipynb)
@@ -47,7 +47,7 @@ The basic concepts you'll need to do analytics operations in Python are organise
    7. [External libraries](https://github.com/colintwh/python-basics/blob/master/external_libs.ipynb)
    8. [More about functions](https://github.com/colintwh/python-basics/blob/master/adv_functions.ipynb)
    
-   Slightly more advanced concepts (These are more specific to using Python to write general programs)
+Slightly more advanced concepts (These are more specific to using Python to write general programs)
    
    9. [Classes](https://github.com/colintwh/python-basics/blob/master/classes.ipynb)
    10. [Files and Exceptions](https://github.com/colintwh/python-basics/blob/master/files_exceptions.ipynb)
